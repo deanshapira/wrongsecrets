@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@babel/eslint-parser": "^7.25.1",
+    "@babel/eslint-parser": "^7.25.9",
     "@babel/preset-env": "^7.25.4",
     "@commitlint/config-conventional": "^19.4.1",
     "@eslint/eslintrc": "^3.1.0",
